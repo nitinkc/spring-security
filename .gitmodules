@@ -1,0 +1,12 @@
+[submodule "Spring-Security-LDAPBased"]
+	path = Spring-Security-LDAPBased
+	url = https://github.com/nitinkc/Spring-Security-LDAPBased.git
+[submodule "Spring-Security-JDBCAuth"]
+	path = Spring-Security-JDBCAuth
+	url = https://github.com/nitinkc/Spring-Security-JDBCAuth.git
+[submodule "Spring-Security-inMemory"]
+	path = Spring-Security-inMemory
+	url = https://github.com/nitinkc/Spring-Security-inMemory.git
+[submodule "Spring-Security-OAuth2"]
+	path = Spring-Security-OAuth2
+	url = https://github.com/nitinkc/Spring-Security-OAuth2.git
